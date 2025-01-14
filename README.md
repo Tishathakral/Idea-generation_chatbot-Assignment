@@ -13,7 +13,3 @@ Replace the `GOOGLE_API_KEY` in `.env` with your own API key.
 ```bash
 node index.js
 ```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please view the [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
