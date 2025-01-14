@@ -5,7 +5,7 @@ Simple Google Gemini ChatBot for Nodejs
 ## Installation
 
 ```bash
-npm install @google/generative-ai ora chalk prompt-sync
+npm install
 ```
 
 Replace the `API_KEY` in `index.js` with your own API key.
