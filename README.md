@@ -8,7 +8,7 @@ Simple Google Gemini ChatBot for Nodejs
 npm install
 ```
 
-Replace the `API_KEY` in `index.js` with your own API key.
+Replace the `GOOGLE_API_KEY` in `.env` with your own API key.
 
 ```bash
 node index.js
